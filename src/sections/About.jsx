@@ -1,6 +1,6 @@
 import { useRef } from "react";
-import Card from "../components/Card";
-import { IconCloud } from "../components/IconCloud";
+
+
 import { Frameworks } from "../components/Framework";
 import CopyEmailButton from "../components/CopyEmailButton";
 

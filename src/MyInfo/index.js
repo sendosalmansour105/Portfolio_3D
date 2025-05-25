@@ -152,9 +152,9 @@ export const experiences = [
     job: "Front-End Developer",
     date: "Aug 2023 - Jan 2024",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancinging C++ and the ility of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "I trained in this company for six months. I learned a lot during this time.",
+      " We worked within a professional programming team and the supervisors were very experienced.",
+      " We worked on projects using CSS, Talwind, JavaScript, Vue2 , Vue3, and VueX. I also learned how to use GitHub perfectly.",
     ],
   },
   {
@@ -162,8 +162,9 @@ export const experiences = [
     job: "Front-End Develope",
     date: "Feb 2024 - May 2024",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud coupdates, real-time tracking, and remote start capabilities.",
+      "I was nominated to this company by my university after graduation. ",
+      "I worked on a large project as part of a great programming team. I gained a love of collaboration and got to know the programming community more.",
+      " I worked with CSS, Bootstrap, JavaScript, and VueJS."
     ],
   },
   {
@@ -171,8 +172,8 @@ export const experiences = [
     job: "Front-End Developer",
     date: " Jul 2024 - Aug 2024",
     contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhacning technical skills and expanding expertise in modern web development and back-end technologies.",
+     "I designed a project for the company, in addition to building and developing it ",
+     "I used reactjs, css, and JavaScript."
     ],
   },
 ];
