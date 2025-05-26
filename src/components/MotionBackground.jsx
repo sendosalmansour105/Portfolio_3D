@@ -14,7 +14,7 @@ const MotionBackground = () => {
                 {/* Sky  */}
                 <div className='absolute inset-0 w-full h-screen -z-50'
                     style={{
-                        backgroundImage: "url(../public/assets/sky.jpg)",
+                        backgroundImage: "url(images/sky.jpg)",
                         backgroundPosition: "bottom",
                         backgroundSize: "cover"
 
@@ -22,7 +22,7 @@ const MotionBackground = () => {
                 {/* mountains  */}
                 <motion.div className='absolute inset-0 -z-40'
                     style={{
-                        backgroundImage: "url(../public/assets/mountain-3.png)",
+                        backgroundImage: "url(images/mountain-3.png)",
                         backgroundPosition: "bottom",
                         backgroundSize: "cover",
                         y: mountain3y,
@@ -31,7 +31,7 @@ const MotionBackground = () => {
                 {/* planets  */}
                 <motion.div className='absolute inset-0 -z-30'
                     style={{
-                        backgroundImage: "url(../public/assets/planets.png)",
+                        backgroundImage: "url(images/planets.png)",
                         backgroundPosition: "bottom",
                         backgroundSize: "cover",
                         x: planetsx,
@@ -40,7 +40,7 @@ const MotionBackground = () => {
                 {/* mountains 2  */}
                 <motion.div className='absolute inset-0 -z-20'
                     style={{
-                        backgroundImage: "url(../public/assets/mountain-2.png)",
+                        backgroundImage: "url(images/mountain-2.png)",
                         backgroundPosition: "bottom",
                         backgroundSize: "cover",
                         y: mountain2y,
@@ -49,7 +49,7 @@ const MotionBackground = () => {
                 {/* mountains 3  */}
                 <motion.div className='absolute inset-0 -z-10'
                     style={{
-                        backgroundImage: "url(../public/assets/mountain-1.png)",
+                        backgroundImage: "url(images/mountain-1.png)",
                         backgroundPosition: "bottom",
                         backgroundSize: "cover",
                         y: mountain1y,

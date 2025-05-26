@@ -37,7 +37,7 @@ const Projects = () => {
           className="flex items-center gap-1 cursor-pointer hover-animation"
         >
           For More Projects  
-          <img src="assets/arrow-right.svg" className="w-5" />
+          <img src="images/arrow-right.svg" className="w-5" />
         </a>
       </div>
     </section>

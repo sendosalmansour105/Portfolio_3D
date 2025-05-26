@@ -35,7 +35,7 @@ export const myProjects = [
     ],
     href: "https://github.com/sendosalmansour105/E-commerce-by-Sendos",
     logo: "",
-    image: "/assets/project1.png",
+    image: "images/project1.png",
     tags: [
       {
         id: 1,
@@ -84,7 +84,7 @@ export const myProjects = [
     ],
     href: "https://github.com/sendosalmansour105/BirdGame",
     logo: "",
-    image: "/assets/project2.jpg",
+    image: "images/project2.jpg",
     tags: [
       {
         id: 1,
@@ -117,7 +117,7 @@ export const myProjects = [
     ],
     href: "https://github.com/sendosalmansour105/Modern-TODO-list",
     logo: "",
-    image: "/assets/project3.jpg",
+    image: "images/project3.jpg",
     tags: [
       {
         id: 1,
